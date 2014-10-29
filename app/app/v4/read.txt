@@ -1,0 +1,18 @@
+/*
+V4版For App2.2
+主要功能
+1、教师teacher
+
+课程(getEvent)固定参数
+	@V = 4
+	@start 开始时间（默认本周一）
+	@end 结束时间（默认本周日）
+
+	返回：课程列表
+	schedule	课程ID
+	title	课程标题
+	index	课程索引（本节课开始的时间戳）
+	color	颜色
+	start	开始时间
+	end	结束时间
+	students	学生数

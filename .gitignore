@@ -1,0 +1,13 @@
+/.DS_Store
+/global/
+/app/conf/
+/nbproject/
+*.swp
+/.metadata/
+/.settings/org.eclipse.core.resources.prefs
+
+# OS generated files #  
+######################  
+.DS_Store  
+.DS_Store?  
+._*
